@@ -3,5 +3,5 @@
 This is a note for scripts.When I forget thr script,I can quickly find it here.
 
 ## Content
-* [Commands of Linux](CommandsOfLiunx.md)
+* [Commands of Linux](CommandsOfLinux.md)
 * [Commands of FFmpeg](CommandsOfFFmpeg.md)
