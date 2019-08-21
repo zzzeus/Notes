@@ -3,7 +3,7 @@
 This is a note about Commands used in Linux
 
 ## Quick look
-```
+```cmd
 ###### copy and move   ############
 
 # copy directory and all its files
