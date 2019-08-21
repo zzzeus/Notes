@@ -3,7 +3,7 @@
 
 
 ### Examples
-```
+```python
 import numpy as np
 ############# create ###########
 
