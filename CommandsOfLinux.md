@@ -15,6 +15,10 @@ cp -v [source]/* [destination]
 # move 
 mv [source] [destination]
 
+# remove file and directory
+rm -r [folder]
+rm *.txt
+
 ####### unzip and zip   ##########
 
 unzip filename.zip -d /path/to/directory
