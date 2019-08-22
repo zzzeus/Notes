@@ -39,3 +39,28 @@ a2=np.transpose(a1) # cahnge the order of axis
 
 
 ```
+* splice or join two piece
+```python
+'''
+# Horizontal combination
+np.hstack((a,b))
+# Vertical combination
+np.vstack((a,b))
+'''
+#example
+a=np.arange(9).reshape(3,3)
+b=a+10
+
+print(a)
+print()
+print(b)
+print('Horizontal combination:')
+# Horizontal combination
+print(np.hstack((a,b)))
+print('vertical combination:')
+# Vertical combination
+print(np.vstack((a,b)))
+print()
+print(np.dstack((a,b)))
+```
+
