@@ -1,4 +1,5 @@
 # Some notes about ffmpeng
+[reference](https://gist.github.com/dvlden/b9d923cb31775f92fa54eb8c39ccd5a9)
 
 ## Quick look
 
