@@ -33,7 +33,12 @@ unzip -P PasswOrd filename.zip
 unzip -l filename.zip
 
 # unzip a.zip001,a.zip002...
-cat testdata/tracking/goturn.caffemodel.zip* > testdata/goturn.caffemodel.zip
+cat file.zip* > file.zip
+unzip file.zip
+
+tar –xvf file.tar 
+
+tar –xzf file.tar.gz
 
 ####### path     ##############
 
