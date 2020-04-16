@@ -3,7 +3,16 @@
 ## Contents
 
 ### Usage of HTML
+* Open a link in a new tab
+```html
+<a href="JavaScript.md" target="_blank">A JavaScript Note</a>
+```
+* Open a link in a new tab
+```html
+<a href="#C4">Go to chapter 4</a>
 
+<h2><a id="C4">Chapter 4</a></h2>
+```
 ### Usage of CSS
 * overflow and float
 
@@ -45,4 +54,11 @@
 
 ### USage of JavaScript
 
+* DateTime
+```js
+var today=new Date();
+var h=today.getHours();
+var m=today.getMinutes();
+var s=today.getSeconds()
+```
 
