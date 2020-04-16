@@ -3,8 +3,16 @@
 This is a note for scripts.When I forget thr script,I can quickly find it here.
 
 ## Content
-* [Python](python.md)
-* [Numpy](Numpy.md)
-* [Commands of Linux](CommandsOfLinux.md)
-* [Commands of FFmpeg](CommandsOfFFmpeg.md)
+1. Python
+    * [Python](python.md)
+    * [Numpy](Numpy.md)
+
+2. Some notes about commands
+    * [Linux](CommandsOfLinux.md)
+    * [FFmpeg](CommandsOfFFmpeg.md)
+    * [Powershell](CommandsOfFFmpeg.md)
+    
+3. About CNN
+    * [CNN](CNN.md)
+    * [DCGAN](DCGAN.md)
 

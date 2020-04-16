@@ -1,12 +1,12 @@
-## This a note about usages of powershell
+# This a note about usages of powershell
 
 [Referenece](https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-6)
 
-## Index
-1. [Files and folder](#Files and folder)
+## Contents
+1. [Files and folder](#Files-and-folder)
 2. [String](#String)
 3. [Network](#Network)
-4. [PC information](#PC information)
+4. [PC information](#PC-information)
 
 ### Files and folder
 ```powershell
