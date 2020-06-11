@@ -52,7 +52,7 @@
 }
 ```
 
-### USage of JavaScript
+### Usage of JavaScript
 
 * DateTime
 ```js
@@ -61,4 +61,12 @@ var h=today.getHours();
 var m=today.getMinutes();
 var s=today.getSeconds()
 ```
+
+* Strings
+```js
+// reverse string
+'abcd'.split('').reverse().join('') //"dcba"
+```
+
+* 
 
