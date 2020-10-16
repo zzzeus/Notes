@@ -1,4 +1,4 @@
-## 1.play Sound in Jupyter
+## 1.Play Sound in Jupyter
 
 ```python
 from IPython.display import Audio
